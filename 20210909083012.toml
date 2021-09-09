@@ -1,0 +1,14 @@
+baseurl = "localhost" # 发布网址
+languageCode = "ja"
+title = "大鸟博客"
+author = "rakuishi"
+theme="hyde"  #主题名称要写，不然不好发布
+ 
+[params]
+ logo      = "https://cn.gravatar.com/avatar/4300d99c5105ba50757d2f89ec6c5c2a?s=192&d=mm"
+ copyright = "rakuishi All rights reserved."
+ twitter   = "https://twitter.com/rakuishi07"
+ facebook  = "https://www.facebook.com/ochiishikoichiro"
+ github    = "https://github.com/rakuishi/"
+ email     = "rakuishi@gmail.com"
+ analytics = "UA-12345678-9"
